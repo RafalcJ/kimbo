@@ -17,12 +17,11 @@ Popraw zadanie tak aby program mial funkcje:
 
 
 # PS
-Zadanie powinno zajac Ci maksymalnie godzine. Jesli zajmie Ci wiecej czasu, napisz w komentarzu jakie punkty jeszcze proponujesz poprawic/dodac.
+- zadanie powinno zajac Ci maksymalnie godzine. Jesli zajmie Ci wiecej czasu, napisz w komentarzu jakie punkty jeszcze proponujesz poprawic/dodac.
+- mozesz wykonac zadanie uzywajac preferowanych przez siebie bibliotek.
+- gotowe zadanie prześlij na github lub w formacie zip na maila rekrutera
 
-Mozesz wykonac zadanie uzywajac preferowanych przez siebie bibliotek
-
-
-# Materialy pomocne
+# Materialy pomocnicze
 Json tworzenia parkingu 
 ```
 {
